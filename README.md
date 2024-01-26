@@ -17,24 +17,24 @@ Creating a website to showcase your apartment for lease is a great idea. Here's 
 
 - Landing Page: This is the first page visitors will see. It should include:
 
- - A welcoming message.
- - High-quality images of the apartment.
- - A brief description highlighting key features (location, size, amenities).
- - A call-to-action (CTA) directing them to view the gallery, download the lease, or contact you.
+  - A welcoming message.
+  - High-quality images of the apartment.
+  - A brief description highlighting key features (location, size, amenities).
+  - A call-to-action (CTA) directing them to view the gallery, download the lease, or contact you.
 
 - Gallery Page:
 
- - Showcase high-resolution photos of the apartment, including different rooms, amenities, and any unique features.
- - Consider adding a virtual tour or video walkthrough.
+  - Showcase high-resolution photos of the apartment, including different rooms, amenities, and any unique features.
+  - Consider adding a virtual tour or video walkthrough.
 - Contact Page:
 
- - Provide a contact form for inquiries.
- - Include your email address, phone number, and possibly a live chat feature.
- - Mention response time to set expectations.
+  - Provide a contact form for inquiries.
+  - Include your email address, phone number, and possibly a live chat feature.
+  - Mention response time to set expectations.
 - Lease Agreement Page:
 
- - Offer a downloadable sample lease agreement (PDF format).
- - Include a FAQ section about the leasing process, terms, and conditions.
+  - Offer a downloadable sample lease agreement (PDF format).
+  - Include a FAQ section about the leasing process, terms, and conditions.
 
 4. SEO and Online Marketing:
 
