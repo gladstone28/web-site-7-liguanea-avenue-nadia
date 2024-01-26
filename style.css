@@ -40,4 +40,10 @@ footer {
     text-align: center;
 }
 
+
 /* Add more styling as needed */
+
+#special {
+    color: red;
+    font-weight: bold;
+}
