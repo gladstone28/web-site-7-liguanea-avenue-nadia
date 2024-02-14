@@ -79,3 +79,146 @@ footer {
     background-color: #555;
     /* Add a darker background on hover */
 }
+
+
+/* General Styles */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* Example font */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #444;
+    /* Updated text color */
+}
+
+
+/* Header Styles */
+
+header {
+    background: #bb6b1c;
+    /* Updated header background color */
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* Hero Section Styles */
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+/* Description Section Styles */
+
+.description {
+    padding: 2rem;
+    text-align: center;
+    background-color: #e0f2f1;
+    /* Light background for the description */
+}
+
+.description h2 {
+    color: #00695c;
+    /* Matching color for headers */
+    margin-bottom: 1rem;
+}
+
+
+/* CTA Section Styles */
+
+.cta {
+    text-align: center;
+    padding: 2rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background: #00897b;
+    /* Updated button color */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #00695c;
+    /* Darker shade on hover */
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* Adjust the gap size as needed */
+    justify-content: center;
+}
+
+.room {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.room img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 8px;
+    /* Space between the image and its label */
+}
+
+.room p {
+    text-align: center;
+    margin: 0;
+    font-size: 16px;
+    /* Adjust label font size as needed */
+}
+
+
+/* Footer Styles */
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #735a0e;
+    /* Dark footer */
+    color: #fff;
+}
+
+
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    nav ul li {
+        margin: 5px 0;
+    }
+}
