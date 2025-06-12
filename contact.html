@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="style2.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="style3.css">
+    <link rel="stylesheet" href="box.css">
 </head>
 
 <body>
@@ -16,29 +17,35 @@
         <h1>Welcome to 7 Liguanea Avenue Apartment</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="lease.html">Lease Agreement</a></li>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="gallery.html">GALLERY</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+                <li><a href="lease.html">LEASE AGREEMENT</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
-        <h2>Contact Us</h2>
+        <h2 id="Contact-Us">Contact Us</h2>
+        <div class= "contact-box"> 
+
         <form id="contact-form">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
+            <div class= "contact-box-contents"> 
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
 
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
 
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
 
-            <button type="submit">Send Message</button>
+                <button type="submit">Send Message</button>
+             </div>
         </form>
         <p id="special">Call 876-999-5673</p>
+
+        </div>
     </main>
 
     <footer>
